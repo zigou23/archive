@@ -1,3 +1,5 @@
+// https://github.com/maple3142/GDIndex
+
 self.props = {
 	title: 'My Index',
 	default_root_id: 'root',
