@@ -213,7 +213,7 @@ th td属性
 
 ### input控件(重点)<sub>单标签</sub>
 
-<table border="2" cellspacing="0" width="500" height="80" style="background:#D0ECE7">
+<table border="2" cellspacing="0" width=auto height=auto style="background:#D0ECE7">
 	<caption>input常用属性</caption>
     <tbody><tr><th>属性</th><th>属性值</th><th>描述</th></tr>
     	<tr><th rowspan="9">type</th><td>text</td><td>单行文本输入框</td></tr>
