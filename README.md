@@ -4,4 +4,4 @@
 
 github information query https://api.github.com/users/zigou23 zigou23 is the username
 
-<!--[ODoH查询](https://blog.cloudflare.com/oblivious-dns/) 查询ip等内容 [From](https://www.solidot.org/story?sid=66319) [achive]()-->
+[查询ip](https://1.1.1.1/cdn-cgi/trace)
