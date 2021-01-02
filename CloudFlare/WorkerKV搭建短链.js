@@ -1,4 +1,5 @@
 /****
+未测试
 详细说明www.daniao.org/252.html 
 GitHub https://github.com/xyTom/Url-Shorten-Worker/blob/main/index.js
 ****/
