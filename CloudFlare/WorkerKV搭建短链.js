@@ -1,11 +1,8 @@
-/****
 
-详细说明www.daniao.org/252.html 
-GitHub https://github.com/xyTom/Url-Shorten-Worker/blob/main/index.js
-
+// 详细说明www.daniao.org/252.html 
+// GitHub https://github.com/xyTom/Url-Shorten-Worker/blob/main/index.js
 
 
-****/
 const html404 = `<!DOCTYPE html>
 <body>
   <h1>404 Not Found.</h1>
